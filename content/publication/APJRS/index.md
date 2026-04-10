@@ -11,6 +11,7 @@ authors:
   - Carlos Mendez
 
 date: "2025-12-24"
+doi: "https://doi.org/10.1007/s41685-025-00415-4"
 
 status: accepted
 
