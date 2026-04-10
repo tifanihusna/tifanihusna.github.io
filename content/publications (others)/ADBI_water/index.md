@@ -7,7 +7,7 @@ title: "The Spillover Effects of Water Supply Infrastructure Development:A Theor
 authors:
 - Naoyuki Yoshino
 - Santi Setiawati
-- Admin
+- admin
 - KE Seetharam
 - Dina Azhgaliyeva
 

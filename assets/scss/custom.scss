@@ -1,0 +1,14 @@
+:root {
+  --primary: #ea95bf !important;
+}
+a, .nav-item .nav-link:hover, .nav-item .nav-link.active {
+  color: #ea95bf;
+}
+.btn-primary {
+  background-color: #ea95bf;
+  border-color: #ea95bf;
+}
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #e07dae;
+  border-color: #e07dae;
+}

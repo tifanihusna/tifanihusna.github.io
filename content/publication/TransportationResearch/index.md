@@ -6,7 +6,7 @@ title: "Exploring Japan’s older adults mobility challenges and the potential r
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Andante Hadi Pandyaswargo
-- Admin
+- admin
 - Hiroshi Onoda
 
 

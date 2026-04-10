@@ -6,7 +6,7 @@ title: "Regional unemployment dynamics in Indonesia: serial persistence, spatial
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Carlos Mendez
-- Admin
+- admin
 
 
 date: "2023-11-24"

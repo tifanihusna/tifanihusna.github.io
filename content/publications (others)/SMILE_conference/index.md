@@ -8,7 +8,7 @@ authors:
   - Andante Hadi Pandyaswargo
   - Vicka Kharisma
   - Meilinda Fitriani Nur Maghfiroh
-  - Admin
+  - admin
   - Hiroshi Onoda
 
 

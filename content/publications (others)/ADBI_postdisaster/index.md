@@ -6,7 +6,7 @@ title: "A Review of Literature on Post-Disaster Reconstruction for Communities a
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Dwiky Wibowo
-- Admin
+- admin
 - Piyush Tiwari
 
 
