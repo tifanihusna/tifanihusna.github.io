@@ -1,9 +1,6 @@
 ---
 title: "Minimum Wage Differentials and Commuting Across Districts: Evidence from the Greater Jakarta Metropolitan Area"
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
   - Carlos Mendez
@@ -11,20 +8,10 @@ authors:
 date: "2025-12-24"
 doi: "https://doi.org/10.1007/s41685-025-00415-4"
 
-
-# Schedule page publish date (NOT publication's date).
-publishDate: ""
-
-# Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-24"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]   # 3 = Preprint/Working Paper (you can still write “accepted” in publication field)
+publication_types: ["2"]
 
-# Publication name and optional abbreviated publication name.
 publication: 'In *Asia-Pacific Journal of Regional Science*'
 publication_short: 'In *Asia-Pacific Journal of Regional Science*'
 
@@ -43,15 +30,12 @@ abstract: >-
   arise directly from district administrative boundaries partly shape formal workers’
   commuting behavior, implying that these jurisdictional divisions and the cross-district
   wage incentives they create should be taken into account in minimum-wage policy
-  design and evaluation
+  design and evaluation.
 
 tags: []
-
-# Display this page in the Featured widget?
 featured: true
 
-# Accepted Manuscript
-# links:
-   - name: Journal Page
-     url: 'https://link.springer.com/article/10.1007/s41685-025-00415-4'
+links:
+  - name: Journal Page
+    url: 'https://link.springer.com/article/10.1007/s41685-025-00415-4'
 ---
