@@ -1,7 +1,5 @@
 ---
-title: >-
-  Minimum Wage Differentials and Commuting Across Districts: Evidence from the
-  Greater Jakarta Metropolitan Area
+title: "Minimum Wage Differentials and Commuting Across Districts: Evidence from the Greater Jakarta Metropolitan Area"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,10 +11,9 @@ authors:
 date: "2025-12-24"
 doi: "https://doi.org/10.1007/s41685-025-00415-4"
 
-status: accepted
 
-# Hide the (2025) in lists and on the page
-show_date: false
+# Schedule page publish date (NOT publication's date).
+publishDate: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-24"
@@ -56,5 +53,5 @@ featured: true
 # Accepted Manuscript
 # links:
    - name: Journal Page
-   - url: 'https://link.springer.com/article/10.1007/s41685-025-00415-4'
+     url: 'https://link.springer.com/article/10.1007/s41685-025-00415-4'
 ---
