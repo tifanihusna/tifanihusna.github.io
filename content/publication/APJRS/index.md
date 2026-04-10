@@ -24,11 +24,11 @@ publishDate: "2025-12-24"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]   # 3 = Preprint/Working Paper (you can still write “accepted” in publication field)
+publication_types: ["2"]   # 3 = Preprint/Working Paper (you can still write “accepted” in publication field)
 
 # Publication name and optional abbreviated publication name.
-publication: 'In *Asia-Pacific Journal of Regional Science*, accepted (Forthcoming)'
-publication_short: 'In *Asia-Pacific Journal of Regional Science*, accepted (Forthcoming)'
+publication: 'In *Asia-Pacific Journal of Regional Science*'
+publication_short: 'In *Asia-Pacific Journal of Regional Science*'
 
 abstract: >-
   This study examined the effect of cross-district minimum wage differentials on workers’
