@@ -1,4 +1,5 @@
 ---
+title: Tifani Husna Siregar
 name: Tifani Husna Siregar
 superuser: true
 role: Postdoctoral Fellow, Interdisciplinary Research Center for Finance and Digital Economy, King Fahd University of Petroleum and Minerals

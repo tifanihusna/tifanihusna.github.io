@@ -1,3 +1,13 @@
 name = "pink"
 light = true
 primary = "#ea95bf"
+
+# Menu
+menu_primary = "rgb(255, 255, 255)"
+menu_text = "#000"
+menu_text_active = "#ea95bf"
+menu_title = "#000"
+
+# Home sections
+home_section_odd = "#FFF"
+home_section_even = "rgb(252, 238, 245)"
