@@ -33,7 +33,7 @@ social:
     link: https://www.linkedin.com/in/tifani-husna-siregar-17850525/
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/15L3nUvd22ngDYo6KiuvbPKAefYqtpcT-/view?usp=sharing
+    link: /uploads/cv.pdf
 
 highlight_name: true
 ---

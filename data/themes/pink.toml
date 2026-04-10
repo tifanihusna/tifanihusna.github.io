@@ -1,0 +1,6 @@
+# Pink theme
+name = "pink"
+light = true
+
+[colors]
+  primary = "#ea95bf"
