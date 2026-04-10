@@ -31,8 +31,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tifani-husna-siregar-17850525/
-  - icon: cv
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: fas
     link: /uploads/cv.pdf
 
 highlight_name: true

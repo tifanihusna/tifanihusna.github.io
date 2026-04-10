@@ -9,6 +9,10 @@ theme: pink
 day_night: true
 font: Minimal
 font_size: L
+colors:
+  primary: "#ea95bf"
+  secondary: "#f7c7d8"
+  accent: "#ea95bf"
 
 # SEO
 

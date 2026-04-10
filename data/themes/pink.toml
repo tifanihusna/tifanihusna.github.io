@@ -4,3 +4,6 @@ light = true
 
 [colors]
   primary = "#ea95bf"
+  secondary = "#f7c7d8"
+  accent = "#ea95bf"
+  link = "#ea95bf"
