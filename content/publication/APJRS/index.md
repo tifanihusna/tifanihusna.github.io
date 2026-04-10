@@ -54,6 +54,6 @@ featured: true
 
 # Accepted Manuscript
 # links:
-#   - name: Accepted Manuscript
-#     url: 'https://www.researchgate.net/publication/375891987_Regional_unemployment_dynamics_in_Indonesia_Serial_persistence_spatial_dependence_and_common_factors'
+   - name: Journal Page
+   - url: 'https://link.springer.com/article/10.1007/s41685-025-00415-4'
 ---
