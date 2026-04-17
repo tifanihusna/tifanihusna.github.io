@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Tifani Husna Siregar' # Website name
-baseurl: 'https://tifanihusna.netlify.app/' # Website URL
+baseurl: 'https://tifanihusna.github.io/starter-academic/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
