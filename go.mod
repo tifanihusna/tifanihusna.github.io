@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-academic
+module github.com/tifanihusna/tifanihusna.github.io
 
 go 1.15
 
