@@ -1,14 +1,60 @@
+/* =============================================
+   Color palette:
+   #7185A8  blue-grey
+   #AABFDA  light blue
+   #F68BCE  light pink
+   #E395AF  medium pink  (primary)
+   #9D5068  dark mauve   (hover / dark accent)
+   ============================================= */
+
 :root {
-  --primary: #ea95bf !important;
+  --primary: #E395AF !important;
 }
-a, .nav-item .nav-link:hover, .nav-item .nav-link.active {
-  color: #ea95bf;
+
+/* Links & nav highlights */
+a,
+.nav-item .nav-link:hover,
+.nav-item .nav-link.active {
+  color: #E395AF;
 }
+
+/* Primary buttons */
 .btn-primary {
-  background-color: #ea95bf;
-  border-color: #ea95bf;
+  background-color: #E395AF;
+  border-color: #E395AF;
+  color: #fff;
 }
-.btn-primary:hover, .btn-primary:focus {
-  background-color: #e07dae;
-  border-color: #e07dae;
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #9D5068;
+  border-color: #9D5068;
+  color: #fff;
+}
+
+/* Outline / secondary buttons (e.g. DOI, Journal Page) */
+.btn-outline-primary {
+  color: #E395AF;
+  border-color: #E395AF;
+}
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  background-color: #E395AF;
+  border-color: #E395AF;
+  color: #fff;
+}
+
+/* Section headings accent */
+.section-heading h1,
+.section-heading h2 {
+  color: #7185A8;
+}
+
+/* Hero / bio name */
+.portrait-title h2 {
+  color: #9D5068;
+}
+
+/* Active nav link underline */
+.navbar .nav-item .nav-link.active {
+  color: #9D5068;
 }

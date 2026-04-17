@@ -8,11 +8,11 @@
 theme: pink
 day_night: true
 font: Minimal
-font_size: L
+font_size: M
 colors:
-  primary: "#ea95bf"
-  secondary: "#f7c7d8"
-  accent: "#ea95bf"
+  primary: "#E395AF"
+  secondary: "#AABFDA"
+  accent: "#E395AF"
 
 # SEO
 
