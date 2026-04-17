@@ -26,6 +26,16 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 
 ############################
+## SECURITY
+############################
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+
+############################
 ## ADVANCED
 ############################
 
