@@ -5,7 +5,7 @@
 
 title: 'Tifani Husna Siregar' # Website name
 baseurl: 'https://tifanihusna.github.io/starter-academic/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '' # Footer text, e.g. '\u00a9 {year} Me'
 
 ############################
 ## LANGUAGE
